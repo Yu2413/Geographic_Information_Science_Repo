@@ -12,7 +12,7 @@ GIS Fundamentals
 - Seasonal Homes Analysis — spatial analysis of seasonal housing.
 - Six-Model Precipitation Analysis — comparison of precipitation interpolation/modeling methods.
 - Suitability Analysis — GIS-based suitability modeling project.
-- Capstone Drone Map — Grove City to Cincinnati Drone Corridor Map Project [WIP Project].
+- Capstone Drone Map — Grove City to Cincinnati Drone Corridor Map Project[WIP Project].
 
 Remote Sensing
 - AI-Based Rainfall Estimation from C-Band Radar Data — presentation on estimating rainfall from radar using artificial intelligence.
